@@ -7,7 +7,7 @@
 
 import re
 def check_web_address(text):
-  pattern = r'^[a-zA-Z0-9_.-][^/@]*$'
+  pattern = r'^\w*[^/@]*$'
   result = re.search(pattern, text)
   return result != None
 
