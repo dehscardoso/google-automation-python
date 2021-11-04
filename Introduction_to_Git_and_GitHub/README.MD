@@ -2,74 +2,15 @@
 
 ## Syllabus
 
-### Module 1: Introduction to Version Control
-- Version Control
-- Keeping Historical Copies
-- Diffing Files
-- Applying Changes
-- What is version control?
-- Version Control and Automation
-- What is Git? 
-- Information About Git
-- Installing Git
-- First Steps with Git
-- Tracking Files
-- The Basic Git Workflow
-- Anatomy of a Commit Message
-- Intro to Version Control
-- Practical Application of diff and patch
-- Quiz: Before Version Control
-- Quiz: Version Control Systems
-- Quiz: Using Git
-- Qwiklabs: Introduction to Git
+In this course, you’ll learn how to keep track of the different versions of your code and configuration files using a popular version control system (VCS) called Git. We'll also go through how to setup an account with a service called GitHub so that you can create your very own remote repositories to store your code and configuration. 
 
-### Module 2: Using Git Locally
-- Skipping the Staging Area
-- Getting More Information About Our Changes
-- Deleting and Renaming Files
-- Undoing Changes Before Committing
-- Amending Commits
-- Rollbacks
-- Identifying a Commit
-- What is a branch?
-- Creating New Branches
-- Working with Branches
-- Merging
-- Merge Conflicts
-- Quiz: Advanced Git Interaction
-- Quiz: Undoing Things
-- Quiz: Branching & Merging
-- Qwiklabs: Merging Branches in Git
+Throughout this course, you'll learn about Git's core functionality so you can understand how and why it’s used in organizations. We’ll look into both basic and more advanced features, like branches and merging. We'll demonstrate how having a working knowledge of a VCS like Git can be a lifesaver in emergency situations or when debugging. And then we'll explore how to use a VCS to work with others through remote repositories, like the ones provided by GitHub.
 
-### Module 3: Working with Remotes
-- What is GitHub?
-- Basic Interaction with GitHub
-- What is a remote?
-- Working with Remotes
-- Fetching New Changes
-- Updating the Local Repository
-- Pull-Merge-Push Workflow
-- Pushing Remote Branches
-- Rebasing Your Changes
-- Another Rebasing Example
-- Best Practices for Collaboration
-- Quiz: Introduction to GitHub
-- Quiz: Using a Remote Repository
-- Quiz: Solving Conflicts
-- Qwiklabs: Introduction to Github
+By the end of this course, you'll be able to store your code's history in Git and collaborate with others in GitHub, where you’ll also start creating your own portfolio! 
 
-### Module 4: Collaboration
-- A Simple Pull Request on GitHub
-- The Typical Pull Request Workflow on GitHub
-- Updating an Existing Pull Request
-- Squashing Changes
-- What are code reviews?
-- How to Use Code Reviews in GitHub
-- The Code Review Workflow
-- Managing Collaboration
-- Tracking Issues
-- Continuous Integration
-- Quiz: Pull Requests
-- Quiz: Code Reviews
-- Quiz: Managing Collaboration
-- Qwiklabs: Pushing Local Commits to Github
+In order to follow along and complete the assessments, you’ll need a computer where you can install Git or ask your administrator to install it for you.
+
+- Understand why version control is a fundamental tool for coding and collaboration
+- Use and interact with GitHub 
+- Install and run Git on your local machine
+- Collaborate with others through remote repositories
