@@ -21,6 +21,6 @@ This program builds on your IT foundations to help you take your career to the n
 | 02.     | [Using Python to Interact with the Operating System](Using_Python_to_Interact_with_the_OS) |
 | 03.     | [Introduction to Git and GitHub](Introduction_to_Git_and_GitHub)                           |
 | 04.	    | [Troubleshooting and Debugging Techniques](Troubleshooting_and_Debugging_Techniques)       |
-| 05.     | [Configuration Management and the Cloud](Configuration_Management_and_the_Cloud)           |
-| 06.     | [Automating Real-World Tasks with Python](Automating_Real-World_Tasks_with_Python)         |
+| 05.     | [Configuration Management and the Cloud]                                                   |
+| 06.     | [Automating Real-World Tasks with Python](Automating_Real_World_Tasks_with_Python)         |
 
